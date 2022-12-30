@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[609],{609:function(e,t,i){i.r(t);var n=i(184);t.default=function(){return(0,n.jsxs)("section",{children:[(0,n.jsx)("h2",{children:"Mission"}),(0,n.jsx)("p",{children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet enim sunt incidunt totam animi quod quis atque, ratione tenetur. In porro, sunt necessitatibus recusandae adipisci nostrum consectetur veniam commodi esse?"})]})}}}]);
+//# sourceMappingURL=609.70ca30bf.chunk.js.map

@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/react-test/static/css/main.7acaea2f.css",
+    "main.js": "/react-test/static/js/main.98ac0519.js",
+    "static/js/175.ec8f5bac.chunk.js": "/react-test/static/js/175.ec8f5bac.chunk.js",
+    "static/js/415.bafe6d9c.chunk.js": "/react-test/static/js/415.bafe6d9c.chunk.js",
+    "static/js/805.ca5d6531.chunk.js": "/react-test/static/js/805.ca5d6531.chunk.js",
+    "static/js/365.c3981f34.chunk.js": "/react-test/static/js/365.c3981f34.chunk.js",
+    "static/js/600.ae963efd.chunk.js": "/react-test/static/js/600.ae963efd.chunk.js",
+    "static/js/609.70ca30bf.chunk.js": "/react-test/static/js/609.70ca30bf.chunk.js",
+    "static/js/708.6ea59225.chunk.js": "/react-test/static/js/708.6ea59225.chunk.js",
+    "static/js/186.381b1109.chunk.js": "/react-test/static/js/186.381b1109.chunk.js",
+    "static/js/128.f09c285e.chunk.js": "/react-test/static/js/128.f09c285e.chunk.js",
+    "index.html": "/react-test/index.html",
+    "main.7acaea2f.css.map": "/react-test/static/css/main.7acaea2f.css.map",
+    "main.98ac0519.js.map": "/react-test/static/js/main.98ac0519.js.map",
+    "175.ec8f5bac.chunk.js.map": "/react-test/static/js/175.ec8f5bac.chunk.js.map",
+    "415.bafe6d9c.chunk.js.map": "/react-test/static/js/415.bafe6d9c.chunk.js.map",
+    "805.ca5d6531.chunk.js.map": "/react-test/static/js/805.ca5d6531.chunk.js.map",
+    "365.c3981f34.chunk.js.map": "/react-test/static/js/365.c3981f34.chunk.js.map",
+    "600.ae963efd.chunk.js.map": "/react-test/static/js/600.ae963efd.chunk.js.map",
+    "609.70ca30bf.chunk.js.map": "/react-test/static/js/609.70ca30bf.chunk.js.map",
+    "708.6ea59225.chunk.js.map": "/react-test/static/js/708.6ea59225.chunk.js.map",
+    "186.381b1109.chunk.js.map": "/react-test/static/js/186.381b1109.chunk.js.map",
+    "128.f09c285e.chunk.js.map": "/react-test/static/js/128.f09c285e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.98ac0519.js"
   ]
 }
